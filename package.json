@@ -1,7 +1,7 @@
 {
   "name": "toletglobe-backend",
   "version": "1.0.0",
-  "description": "a backend from pratik",
+  "description": "a backend by pratik",
   "main": "index.js",
   "scripts": {
     "start": "node ./src/index.js",
