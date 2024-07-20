@@ -44,4 +44,6 @@ npm run start
 
 ## Team Details
 
+- Jayash - jayashysaini7361@gmail.com
 - Pratik - pratikyadav3949@gmail.com
+- Prashant - prashantanandcse2025@gmail.com
